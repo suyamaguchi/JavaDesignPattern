@@ -1,0 +1,5 @@
+#written by FileProperties
+#Sat Nov 30 16:09:07 JST 2019
+day=20
+year=2000
+month=11
